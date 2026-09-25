@@ -35,11 +35,10 @@ jobs:
 
       - name: Generate website
         run: |
-          cp -R site _site
-          cd _site
-          rm -f index.html
-          pandoc --standalone --css pandoc.css --mathjax -f markdown -t html -o index.html index.md
-          test -s index.html
+          mkdir -p _site
+          cp pandoc.css _site/
+          pandoc --standalone --css pandoc.css --mathjax -f markdown -t html -o _site/index.html index.md
+          test -s _site/index.html
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
