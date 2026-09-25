@@ -21,7 +21,7 @@ I am mostly working on embedding type problems for graphs and usually they invol
 
 * **The maximum diameter of d-dimensional simplicial complexes** with Stefan Glock, Silas Rathke, and Tibor Szabó. [arXiv:2602.20890](https://arxiv.org/pdf/2602.20890).
 * **Adjunctions, Box Products, and Forcing Families** with Aldo Kiem and Christoph Spiegel. [arXiv:2412.12904](https://arxiv.org/pdf/2412.12904).
-* **Graphs with large minimum degree and no small odd cycles are 3-colourable** with Julia Böttcher, Nóra Frankl, Domenico Mergoni Cecchelli, and Jozef Skokan. Accepted by _Combinatorial Theory_. [arXiv:2302:01875](https://arxiv.org/pdf/2302.01875).
+* **Graphs with large minimum degree and no small odd cycles are 3-colourable** with Julia Böttcher, Nóra Frankl, Domenico Mergoni Cecchelli, and Jozef Skokan. Accepted by _Combinatorial Theory_. [arXiv:2302.01875](https://arxiv.org/pdf/2302.01875).
 
 ### Published
 
