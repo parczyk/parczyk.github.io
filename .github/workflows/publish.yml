@@ -1,0 +1,51 @@
+name: Publish website
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Download website files
+        uses: actions/checkout@v6
+
+      - name: Install Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+        with:
+          pandoc-version: "3.4"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Generate website
+        run: |
+          cp -R site _site
+          cd _site
+          rm -f index.html
+          pandoc --standalone --css pandoc.css --mathjax -f markdown -t html -o index.html index.md
+          test -s index.html
+
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
