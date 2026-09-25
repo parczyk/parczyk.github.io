@@ -37,6 +37,12 @@ jobs:
         run: |
           mkdir -p _site
           cp pandoc.css _site/
+          cp PhD_thesis_parczyk.pdf MA_thesis_parczyk.pdf BA_thesis_parczyk.pdf _site/
+          for page in impressum.html datenschutz.html; do
+            if [ -f "$page" ]; then
+              cp "$page" _site/
+            fi
+          done
           pandoc --standalone --css pandoc.css --mathjax -f markdown -t html -o _site/index.html index.md
           test -s _site/index.html
 
