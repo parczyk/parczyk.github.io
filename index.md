@@ -183,9 +183,9 @@ I am mostly working on embedding type problems for graphs and usually they invol
 
 ## Theses
 
-* [Doctoral thesis](../parczyk/PhD_thesis_Parczyk.pdf): **Spanning structures in random graphs and hypergraphs**, Goethe Universität Frankfurt am Main, 2017.
-* [Master's thesis](../parczyk/MA_thesis_Parczyk.pdf): **On Sidorenko's conjecture**, Freie Universität Berlin, 2014.
-* [Bachelor's thesis](../parczyk/BA_thesis_Parczyk.pdf): **Kombinatorischer Nullstellensatz**, Freie Universität Berlin, 2013.
+* [Doctoral thesis](PhD_thesis_parczyk.pdf): **Spanning structures in random graphs and hypergraphs**, Goethe Universität Frankfurt am Main, 2017.
+* [Master's thesis](MA_thesis_parczyk.pdf): **On Sidorenko's conjecture**, Freie Universität Berlin, 2014.
+* [Bachelor's thesis](BA_thesis_parczyk.pdf): **Kombinatorischer Nullstellensatz**, Freie Universität Berlin, 2013.
 
 <p style="height: 40px;"></p>
 
