@@ -1,11 +1,8 @@
 % Olaf Parczyk
-Zuse Institute Berlin - Interactive Optimization and Learning Laboratory - 
-[parczyk@zib.de](mailto:parczyk@zib.de)\
-Freie Universität Berlin - Department of Mathematics and Computer Science - 
-[parczyk@mi.fu-berlin.de](mailto:parczyk@mi.fu-berlin.de)\
-[arXiv](https://arxiv.org/a/parczyk_o_1.html), [Google Scholar](https://scholar.google.co.uk/citations?hl=de&user=Q9nMHdIAAAAJ), [ORCiD](https://orcid.org/0000-0001-6419-8560)
+[olafparczyk@gmail.com](mailto:olafparczyk@gmail.com), [arXiv](https://arxiv.org/a/parczyk_o_1.html), [Google Scholar](https://scholar.google.co.uk/citations?hl=de&user=Q9nMHdIAAAAJ), [ORCiD](https://orcid.org/0000-0001-6419-8560)
 
-I am a research assistant at the [Zuse Institute Berlin](https://www.zib.de) in the [Interactive Optimization and Learning Laboratory](http://iol.zib.de/research/) of [Sebastian Pokutta](http://www.pokutta.com).
+I am a mathematician. 
+From 2024 to 2026 I was a research assistant at the [Zuse Institute Berlin](https://www.zib.de) in the [Interactive Optimization and Learning Laboratory](http://iol.zib.de/research/) of [Sebastian Pokutta](http://www.pokutta.com).
 In the winter terms 2025/26 and 2024/25 I was a substitute professor at [FU-Berlin](https://www.fu-berlin.de).
 Previously, I was a [Math+](https://mathplus.de) Postdoc at [FU-Berlin](https://www.fu-berlin.de), a visiting fellow at the [London School of Economics and Political Science](https://www.lse.ac.uk) funded by a fellowship of the [German Research Foundation](https://www.dfg.de/en/index.jsp) (DFG, Grant PA 3513/1-1) and a postdoctoral researcher at [TU Ilmenau](https://www.tu-ilmenau.de/dma/). I obtained my Ph.D. at [Goethe University Frankfurt am Main](https://www.uni-frankfurt.de/42358766/mathematik), where my supervisor was [Yury Person](https://www.tu-ilmenau.de/dma/team/yury-person/).
 
@@ -193,5 +190,5 @@ I am mostly working on embedding type problems for graphs and usually they invol
   <a href="impressum.html">Impressum</a> · 
   <a href="datenschutz.html">Datenschutzerklärung</a> · 
   Created with [Pandoc](https://pandoc.org) · 
-  Last update April 2026.
+  Last update September 2026.
 </footer>
