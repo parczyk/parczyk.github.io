@@ -2,7 +2,7 @@
 [olafparczyk@gmail.com](mailto:olafparczyk@gmail.com), [arXiv](https://arxiv.org/a/parczyk_o_1.html), [Google Scholar](https://scholar.google.co.uk/citations?hl=de&user=Q9nMHdIAAAAJ), [ORCiD](https://orcid.org/0000-0001-6419-8560)
 
 I am a mathematician. 
-From 2024 to 2026 I was a research assistant at the [Zuse Institute Berlin](https://www.zib.de) in the [Interactive Optimization and Learning Laboratory](http://iol.zib.de/research/) of [Sebastian Pokutta](http://www.pokutta.com).
+Until recently I was a research assistant at the [Zuse Institute Berlin](https://www.zib.de).
 In the winter terms 2025/26 and 2024/25 I was a substitute professor at [FU-Berlin](https://www.fu-berlin.de).
 Previously, I was a [Math+](https://mathplus.de) Postdoc at [FU-Berlin](https://www.fu-berlin.de), a visiting fellow at the [London School of Economics and Political Science](https://www.lse.ac.uk) funded by a fellowship of the [German Research Foundation](https://www.dfg.de/en/index.jsp) (DFG, Grant PA 3513/1-1) and a postdoctoral researcher at [TU Ilmenau](https://www.tu-ilmenau.de/dma/). I obtained my Ph.D. at [Goethe University Frankfurt am Main](https://www.uni-frankfurt.de/42358766/mathematik), where my supervisor was [Yury Person](https://www.tu-ilmenau.de/dma/team/yury-person/).
 
@@ -71,14 +71,13 @@ I am mostly working on embedding type problems for graphs and usually they invol
 
 ### Master
 
-* Pascal Weinhart (in progress)
-* Vanessa Hiebeler (in progress)
+* Vanessa Hiebeler (2026) **Embedding Spanning Structures into the Random Geometric Graph**
 * Eva Schinzel (2025) **Clique Factors in the Semi-Random Graph Process**
 * Niall Smith (2025) **Discrepancy of Hamilton Cycles in Random Subgraphs**
 
 ### Bachelor
 
-* Kazim Koc (in progress)
+* Kazim Koc (2026) **Hamiltonkreise in Zufallsgraphen**
 * Pascal Weihnhart (2025) **Embedding Spanning Trees in (n,d,λ)-graphs via Sorting Networks**
 * Nikita Painemal (2025) **Über die Anzahl von Schur-Tripeln**
 * Luis Böhme (2025) **Die Singularität von zufälligen Matrizen**
@@ -110,73 +109,6 @@ I am mostly working on embedding type problems for graphs and usually they invol
 * [Mathematics for Computer-Scientists I](http://www.inf.fu-berlin.de/lehre/WS11/mafi1/index.html#Schein/Klausur) (TA), FU Berlin, WT 2011
 * Mathematics for Physicists (TA), FU Berlin, ST 2011
 
-
-## Past Events
-
-* [Symposium Discrete Mathematics](https://www3.math.tu-berlin.de/combi/dmg/conferences/241011-Symposium+Discrete+Mathematics.html), Berlin, 11-12 October 2024.
-* [ECRiC24](https://www.icms.org.uk/ECRiC24), Edinburgh, 15-19 July 2024. 
-* [DMV Annual  Meeting 2023](https://www.tu-ilmenau.de/dmv2023), Ilmenau, 25-28 September 2023
-* [FoCM 2023](https://focm2023.org), Paris, 12-32 June 2023.
-* [DMV Annual Meeting 2022](https://www.mi.fu-berlin.de/dmv2022/index.html), Berlin (Germany), 12-16 September 2022.
-* [RS&A 2022](http://rsa2021.amu.edu.pl), Gniezno (Poland), 1-5 August 2022.
-* [Third Southwestern German Workshop on Graph Theory](https://www.ifi.uni-heidelberg.de/theoi/workshop_graph_theory.html), Heidelberg (Germany), 27 June - 1 July 2022.
-* [BCC 2021](https://community.dur.ac.uk/bcc.2021/) (online), Durham (UK), 5-9 July 2021.
-* [2021 Colloquia in Combinatorics](https://www.lse.ac.uk/Colloquia-in-Combinatorics) (online), London (UK), 12-13 May 2021.
-* [DMV Annual Meeting 2020](https://www.tu-chemnitz.de/mathematik/dmv2020/) (online), Chemnitz (Germany), 14-17 September 2020.
-* [Workshop on Graph Theory & Combinatorics in Thuringia](https://www0.tu-ilmenau.de/combinatoricsworkshop/) (online), Erfurt (Germany), 28-31 July 2020.
-* [Workshop Cycles & Colourings](https://candc.upjs.sk/), High Tatras (Slovakia), 2-6 September 2019.
-* [EUROCOMB 2019](http://eurocomb2019.uniba.sk/), Bratislava (Slovakia), 26-30 August 2019 
-* [RS&A 2019](https://math.ethz.ch/fim/conferences/19th-int-conf-random-structures-algorithms.html), Zurich (Switzerland), 15-19 July 2019
-* ILKE6 Workshop, Košice (Slovakia), 22-26 July 2019
-* Visiting [USP](http://www5.usp.br/), São Paulo (Brazil), January 2019
-* Workshop on structure and randomness in hypergraphs, London (UK), 17-21 December 2018
-* [Kolloquium über Kombinatorik 2018](https://www.kolkom.de/call-for-participation.php), Paderborn (Germany), 23-24 November 2018
-* [First Southwestern German Workshop on Graph Theory](http://sw-graphs-2018.math.kit.edu/), Karlsruhe (Germany), 27-31 August 2018
-* [Prague summer school on discrete mathematics](http://pssdm.math.cas.cz/registration.html), Prague (Czech Republic), 16-20 July 2018
-* [Large networks and random graphs](http://www.uni-frankfurt.de/72190960/Workshop-Info.pdf), Frankfurt (Germany), 9-13 July 2018
-* [EUROCOMB 2017](http://www.dmg.tuwien.ac.at/eurocomb2017/), Vienna (Austria), 1 September - 8 August 2017
-* [RS&A 2017](http://rsa2017.amu.edu.pl/), Gniezno (Poland), 7-11 August 2017
-* Visiting [USP](http://www5.usp.br/), São Paulo (Brazil), March 2017
-* [Large-Scale Structures in Random Graphs Workshop](http://www.lse.ac.uk/maths/Seminars/Large-Scale-Structures-in-Random-Graphs-Workshop-2016.aspx), London (UK), 12-16 December 2016
-* [6th Polish Combinatorial Conference](http://6pcc.tcs.uj.edu.pl/), Będlewo (Poland), 19-23 September 2016
-* AG-Workshop, Hirschegg (Austria), 22-26 August 2016
-* [7ECM](http://www.7ecm.de/), Berlin (Germany), 18-22 July 2016
-* [TAU - FUB Workshop on Positional Games](http://discretemath.imp.fu-berlin.de/PosGames2016/index.html), Berlin (Germany), 22-26 February 2016
-* Visiting [USP](http://www5.usp.br/), São Paulo (Brazil), January 2016
-* [Kolloquium über Kombinatorik 2015](http://www.tu-ilmenau.de/kolkom2015/), Ilmenau (Germany), 6-7 November 2015
-* [Cargèse fall school on random graphs](http://math.unice.fr/~dmitsche/Fallschool/Fallschool.html), Corsica (France), 20-26 September 2015 
-* [EUROCOMB 2015](https://eurocomb2015.b.uib.no/), Bergen (Norway), 4 September - 31 August 2015
-* [RS&A 2015](http://rsa2015.amu.edu.pl/), Pittsburgh (USA), 21-27 July 2015
-* [Research School Regularity and Analytic Methods in Combinatorics](http://www2.warwick.ac.uk/fac/sci/maths/people/staff/daniel_kral/school15/), Warwick (UK), 1-5 July 2015
-* [Berlin-Poznan-Hamburg Seminar on Discrete Mathematics](http://www-ma2.upc.edu/jrue/BHP-Seminar.html), Berlin (Germany), 29-30 May 2015
-* [Berlin-Poznan Seminar on Discrete Mathematics](http://www.math.uni-hamburg.de/home/schacht/confs/FS_BPHH.html), Hamburg (Germany), 23-24 May 2014
-
-## Talks
-
-* **New Ramsey Multiplicity Bounds and Search Heuristics** at [Third Southwestern German Workshop on Graph Theory](https://www.ifi.uni-heidelberg.de/theoi/workshop_graph_theory.html), [RS&A 2022](http://rsa2021.amu.edu.pl), [DMV Annual Meeting 2022](https://www.mi.fu-berlin.de/dmv2022/index.html), and [FoCM 2023](https://focm2023.org)
-* **A general approach to transversal versions of Dirac-type theorems** at [TU Ilmenau](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-mathematik-und-naturwissenschaften/profil/institute-und-fachgebiete/institut-fuer-mathematik/profil/fachgebiet-large-networks-and-random-graphs) 
-* **Spanning subgraphs in randomly perturbed graphs** in the Mini-Symposium Extremal combinatorics at [BCC 2021](https://bcc2021.webspace.durham.ac.uk)
-* **Between probabilistic and extremal graph theory** at [Algorithm Engineering Group Research Seminar at Hasso-Plattner-Institut](https://hpi.de/friedrich/seminar/ws20.html) in 2021
-* **Resilience for tight Hamilton cycles in random hypergraphs** at the [Graz Combinatorics and Optimization Seminar](https://www.math.tugraz.at/comb/index.php?link=seminars) in 2020, the [Online Mittagsseminar der Gruppe Diskrete Mathematik at TU-Ilmenau](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-mathematik-und-naturwissenschaften/profil/institute-und-fachgebiete/institut-fuer-mathematik/aktuelles/seminare-vortraege) in 2021 and the [Research Seminar Combinatorics at FU-Berlin](https://www.mi.fu-berlin.de/en/math/groups/geokomb/Research-Seminar/index.html) in 2021
-* **Factors in randomly perturbed graphs** at the [Minisymposium Extremal and Probabilistic Combinatorics in the DMV Annual Meeting 2020 at TU Chemnitz](https://www.tu-chemnitz.de/mathematik/dmv2020/)
-* **The size-Ramsey number of tight 3-uniform paths** at [C&C 2019](https://candc.upjs.sk/), Research Seminars at [LSE](https://www.lse.ac.uk/Mathematics/Events-and-Seminars/Seminar-and-PhD-Seminar-on-Combinatorics-Games-and-Optimisation), [FU Berlin](https://www.mi.fu-berlin.de/en/math/groups/geokomb/Research-Seminar/2019_2020/index.html#OlafParczyk), and [TU Ilmenau](https://www.tu-ilmenau.de/dma/) in 2019, and at [Warwick University](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/combinatorics/19-20/#OP) in 2020
-* **More non-bipartite forcing pairs** at [EUROCOMB 2019](http://eurocomb2019.uniba.sk/)
-* **Almost spanning universality in random graphs** at [EUROCOMB 2019](http://eurocomb2019.uniba.sk/)
-* **Universality in randomly perturbed graphs** at [RS&A 2019](https://math.ethz.ch/fim/conferences/19th-int-conf-random-structures-algorithms.html)
-* **The size-Ramsey number of powers of bounded degree trees** at [TU Ilmenau](https://www.tu-ilmenau.de/dma/) in 2019
-* **Universality in randomly perturbed graphs** at [KolKom 2018](https://www.kolkom.de/call-for-participation.php)
-* **Randomly perturbed graphs** in the [Mittagsseminar at ETH Zürich](https://www.ti.inf.ethz.ch/ew/mise/mittagssem.html), at [PhD Seminar on Combinatorics, Games and Optimisation at LSE](http://www.lse.ac.uk/Mathematics/Events-and-Seminars/PhD-Seminar-on-Combinatorics-Games-and-Optimisation), at [Large networks and random graphs workshop in Frankfurt](http://www.uni-frankfurt.de/72190960/Workshop-Info.pdf), and at [First Southwestern German Workshop on Graph Theory](http://sw-graphs-2018.math.kit.edu/) in 2018
-* **Embedding spanning bounded degree subgraphs in randomly perturbed graphs** at [Combinatorics Seminar at the University of Warwick](http://www2.warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/combinatorics/) in 2017 and at [EUROCOMB 2017](http://www.dmg.tuwien.ac.at/eurocomb2017/)
-* **Finding tight Hamilton cycles in hypergraphs faster** at [RS&A 2017](https://rsa2017.homex.amu.edu.pl/)
-* **Explicit construction of universal hypergraphs** at [PhD Seminar on Combinatorics, Games and Optimisation at LSE](http://www.lse.ac.uk/maths/Seminars/PhD-Seminar-on-Combinatorics,-Games-and-Optimisation.aspx) in 2017
-* **Universality in random and sparse hypergraphs** at [Extremal graph theory seminar at The Czech Academy of Sciences](http://uivty.cs.cas.cz/ExtrA/seminar.html) in 2017
-* **Explicit construction of universal hypergraphs** at [6th Polish Combinatorial Conference](http://6pcc.tcs.uj.edu.pl/) in 2016
-* **Universality in random and sparse hypergraphs** at [KolKom 2015](https://www.tu-ilmenau.de/kolkom2015/), in the [Research Seminar Combinatorics at FU Berlin](https://www.mi.fu-berlin.de/en/math/groups/geokomb/Research-Seminar/2015_2016/index.html#OlafParczyk) in 2015, and at [USP](http://www.ime.usp.br/~tcco/) in 2016
-* **On Spanning Structures in Random Hypergraphs** at [EUROCOMB 2015](https://eurocomb2015.b.uib.no/)
-* **Spanning structures and universality in sparse random hypergraphs** at [RS&A 2015](http://rsa2015.amu.edu.pl/) and [Kolloquium Mathematische Informatik at Goethe University Frankfurt](https://www.math.uni-frankfurt.de/~hahnklim/KollMathInformatik/) in 2015
-* **On Sidorenko's conjecture** at [Research Seminar Discrete Mathematics Goethe University Frankfurt](http://www.uni-frankfurt.de/51937344/AG-_-Oberseminar-Diskrete-Mathematik) in 2014
-* **Relative Entropy and Sidorenko's conjecture** at [Research Seminar Combinatorics at FU Berlin](https://www.mi.fu-berlin.de/en/math/groups/geokomb/Research-Seminar/2014_2015/index.html#OlafParczyk) in 2014
-* **On the logarithmic calculus and Sidorenko's conjecture** at [Research Seminar Combinatorics at FU-Berlin](https://www.mi.fu-berlin.de/en/math/groups/geokomb/Research-Seminar/2013_2014/index.html#OlafParczyk) in 2014
 
 ## Theses
 
