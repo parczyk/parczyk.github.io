@@ -8,8 +8,7 @@ Previously, I was a [Math+](https://mathplus.de) Postdoc at [FU-Berlin](https://
 
 ### Research Interests
 
-My research interests are probabilistic and extremal combinatorics, Ramsey theory, and computational mathematics.
-I am mostly working on embedding type problems for graphs and usually they involve randomness in one way or the other.
+My research interests include probabilistic and extremal combinatorics, Ramsey theory, and computational mathematics. I primarily work on graph-embedding problems, often involving randomness in one form or another.
 
 [comment]: # ### Recent Contributions
 
@@ -26,7 +25,7 @@ I am mostly working on embedding type problems for graphs and usually they invol
 ### Published
 
 <ol reversed>
-   <li>**The maximum diameter of 2-dimensional simplicial complexes** with Silas Rathke and Tibor Szabó, _Discrete & Computational Geometry_ (2026). [DOI](https://doi.org/10.1007/s00454-026-00844-8), [arXiv](https://arxiv.org/pdf/2511.10144).
+   <li>**The maximum diameter of 2-dimensional simplicial complexes** with Silas Rathke and Tibor Szabó, _Discrete & Computational Geometry_ **76**, 1687–1724 (2026). [DOI](https://doi.org/10.1007/s00454-026-00844-8), [arXiv](https://arxiv.org/pdf/2511.10144).
    <li>**An Unsure Note on an Un-Schur Problem** with Christoph Spiegel, _The Electronic Journal of Combinatorics_ **33** (2026), no 1, P1.45. [DOI](https://doi.org/10.37236/13554), [arXiv](https://arxiv.org/pdf/2410.22024).
    <li>**Dirac’s Theorem for Graphs of Bounded Bandwidth** with Alberto Espuny Díaz, Pranshu Gupta, Domenico Mergoni Cecchelli, and Amedeo Sgueglia, _The Electronic Journal of Combinatorics_ **33** (2026), no 1, P1.21. [DOI](https://doi.org/10.37236/13474), [arXiv](https://arxiv.org/pdf/2407.05889).
    <li>**Spanning Spheres in Dirac Hypergraphs** with Freddie Illingworth, Richard Lang, Alp Müyesser, and Amedeo Sgueglia. _Combinatorica_ **45**, 43 (2025). [DOI](https://doi.org/10.1007/s00493-025-00169-9), [arXiv](https://arxiv.org/pdf/2407.06275).
@@ -78,10 +77,9 @@ I am mostly working on embedding type problems for graphs and usually they invol
 ### Bachelor
 
 * Kazim Koc (2026) **Hamiltonkreise in Zufallsgraphen**
-* Pascal Weihnhart (2025) **Embedding Spanning Trees in (n,d,λ)-graphs via Sorting Networks**
 * Nikita Painemal (2025) **Über die Anzahl von Schur-Tripeln**
 * Luis Böhme (2025) **Die Singularität von zufälligen Matrizen**
-
+* Pascal Weihnhart (2025) **Embedding Spanning Trees in (n,d,λ)-graphs via Sorting Networks**
 
 ## Teaching
 
