@@ -4,7 +4,7 @@
 <style>
 figure.portrait {
   float: right;
-  width: 260px;
+  width: 280px;
   max-width: 100%;
   margin: 0 0 1.2rem 1.8rem;
 }
