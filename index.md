@@ -24,7 +24,7 @@ h2, h3 {
 }
 </style>
 
-<img src="images/olaf.jpg"
+<img src="images/olaf.ong"
      alt="Olaf Parczyk"
      class="portrait">
 
