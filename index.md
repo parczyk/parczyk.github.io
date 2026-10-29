@@ -36,9 +36,12 @@ h2, h3 {
 }
 </style>
 
-<img src="images/olaf.png"
-     alt="Olaf Parczyk"
-     class="portrait">
+<figure class="portrait">
+  <img src="images/olaf.png" alt="Olaf Parczyk">
+  <figcaption>
+    Photo: private collection · AI-edited
+  </figcaption>
+</figure>
 
 I am a mathematician. 
 Until recently I was a research assistant at the [Zuse Institute Berlin](https://www.zib.de).
