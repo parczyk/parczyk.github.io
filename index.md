@@ -1,6 +1,33 @@
 % Olaf Parczyk
 [olafparczyk@gmail.com](mailto:olafparczyk@gmail.com), [arXiv](https://arxiv.org/a/parczyk_o_1.html), [Google Scholar](https://scholar.google.co.uk/citations?hl=de&user=Q9nMHdIAAAAJ), [ORCiD](https://orcid.org/0000-0001-6419-8560)
 
+<style>
+.portrait {
+  float: right;
+  width: 160px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 1.2rem 1.8rem;
+  border-radius: 6px;
+}
+
+@media (max-width: 600px) {
+  .portrait {
+    float: none;
+    display: block;
+    margin: 1rem 0 1.5rem;
+  }
+}
+
+h2, h3 {
+  clear: both;
+}
+</style>
+
+<img src="images/olaf.jpg"
+     alt="Olaf Parczyk"
+     class="portrait">
+
 I am a mathematician. 
 Until recently I was a research assistant at the [Zuse Institute Berlin](https://www.zib.de).
 In the winter terms 2025/26 and 2024/25 I was a substitute professor at [FU-Berlin](https://www.fu-berlin.de).
