@@ -2,19 +2,31 @@
 [olafparczyk@gmail.com](mailto:olafparczyk@gmail.com), [arXiv](https://arxiv.org/a/parczyk_o_1.html), [Google Scholar](https://scholar.google.co.uk/citations?hl=de&user=Q9nMHdIAAAAJ), [ORCiD](https://orcid.org/0000-0001-6419-8560)
 
 <style>
-.portrait {
+figure.portrait {
   float: right;
-  width: 160px;
+  width: 220px;
   max-width: 100%;
-  height: auto;
   margin: 0 0 1.2rem 1.8rem;
+}
+
+.portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
   border-radius: 6px;
 }
 
+.portrait figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.7rem;
+  line-height: 1.4;
+  color: #666;
+  text-align: left;
+}
+
 @media (max-width: 600px) {
-  .portrait {
+  figure.portrait {
     float: none;
-    display: block;
     margin: 1rem 0 1.5rem;
   }
 }
