@@ -1,5 +1,5 @@
 % Olaf Parczyk
-[olafparczyk@gmail.com](mailto:olafparczyk@gmail.com), [arXiv](https://arxiv.org/a/parczyk_o_1.html), [Google Scholar](https://scholar.google.co.uk/citations?hl=de&user=Q9nMHdIAAAAJ), [ORCiD](https://orcid.org/0000-0001-6419-8560)
+[parczyk.math@gmail.com](mailto:parczyk.math@gmail.com), [arXiv](https://arxiv.org/a/parczyk_o_1.html), [Google Scholar](https://scholar.google.co.uk/citations?hl=de&user=Q9nMHdIAAAAJ), [ORCiD](https://orcid.org/0000-0001-6419-8560)
 
 <style>
 figure.portrait {
